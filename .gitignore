@@ -1,0 +1,29 @@
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+CMakeUserPresets.json
+
+# ビルドディレクトリを無視
+out/
+build/
+
+# macのシステムファイルを無視
+.DS_Store
+
+# Visual Studio Code settingsを無視
+.vscode/
+.vs/
+
+# たぶんgithub関係
+.github/
+
+# 作業用フォルダ
+work/
